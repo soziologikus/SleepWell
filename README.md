@@ -6,6 +6,7 @@ A motion detector connected to a Raspberry Pi tracks your movements during you a
 #Connections
 
 Motion Detector -> Raspberry Pi
+
 VCC             -> GPIO2
 
 OUT             -> GPIO7
