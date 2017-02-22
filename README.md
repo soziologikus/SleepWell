@@ -1,6 +1,6 @@
 # SleepWell
 
-A motion detector connected to a Raspberry Pi tracks your movements during you are asleep. The movements are saved in a file you can analyze statistically.
+A motion detector connected to a Raspberry Pi tracks your movements during you are asleep. The movements are saved in a file you can analyze statistically. Did you sleep well?
 
 
 #Connections
